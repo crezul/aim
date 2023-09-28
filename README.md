@@ -1,0 +1,2 @@
+# aim
+VIM analog
