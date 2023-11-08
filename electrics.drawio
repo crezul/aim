@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T16:35:15.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.0.0" etag="rNyIZFWU05HsUcvyqXnh" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T19:03:18.183Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="6568rM3keQzxlebNhGFT" version="22.0.8" type="github">
   <diagram name="Page-1" id="NOUPBawofEkhBOuc9m33">
-    <mxGraphModel>
+    <mxGraphModel dx="1306" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aCGabC_huhg6xzf763-G-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://001.com.ua/media/photos/abb/modulnoe-oborudovanie/avtomaticheskie-vyklyuchateli-modulnye/2cds252001r0404-450x450-40.jpg;" vertex="1" parent="1">
+          <mxGeometry x="135" y="-60" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-3" value="&lt;h1 class=&quot;product-header&quot;&gt;40А 6кА&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-170" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://001.com.ua/media/photos/zubr/rele-napryazheniya-zubr-d32-180x180-40.jpg;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-60" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://001.com.ua/media/photos/hager/modulnoe-oborudovanie/differentsialnye-rele-uzo/cd240j-450x450-40.jpg;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://001.com.ua/media/photos/hager/modulnoe-oborudovanie/differentsialnye-rele-uzo/cd240j-450x450-40.jpg;" vertex="1" parent="1">
+          <mxGeometry x="160" y="540" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-7" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://001.com.ua/media/photos/schneider-electric/modulnoe-oborudovanie/avtomaticheskie-vyklyuchateli-modulnye/r9f12116-450x450-40.jpg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-8" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://001.com.ua/media/photos/schneider-electric/modulnoe-oborudovanie/avtomaticheskie-vyklyuchateli-modulnye/r9f12116-450x450-40.jpg;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://001.com.ua/media/photos/schneider-electric/modulnoe-oborudovanie/avtomaticheskie-vyklyuchateli-modulnye/r9f12116-450x450-40.jpg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-14" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://001.com.ua/media/photos/schneider-electric/modulnoe-oborudovanie/avtomaticheskie-vyklyuchateli-modulnye/r9f12116-450x450-40.jpg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="540" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-15" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://001.com.ua/media/photos/schneider-electric/modulnoe-oborudovanie/avtomaticheskie-vyklyuchateli-modulnye/r9f12116-450x450-40.jpg;" vertex="1" parent="1">
+          <mxGeometry x="670" y="530" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-16" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://001.com.ua/media/photos/schneider-electric/modulnoe-oborudovanie/avtomaticheskie-vyklyuchateli-modulnye/r9f12116-450x450-40.jpg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="540" width="210" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
