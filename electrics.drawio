@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T19:03:18.183Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="6568rM3keQzxlebNhGFT" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T14:06:22.914Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="Kx-UhRJ3LVLwpxade9T0" version="22.0.8" type="github">
   <diagram name="Page-1" id="NOUPBawofEkhBOuc9m33">
-    <mxGraphModel dx="1306" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1758" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,18 @@
         </mxCell>
         <mxCell id="aCGabC_huhg6xzf763-G-16" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://001.com.ua/media/photos/schneider-electric/modulnoe-oborudovanie/avtomaticheskie-vyklyuchateli-modulnye/r9f12116-450x450-40.jpg;" vertex="1" parent="1">
           <mxGeometry x="490" y="540" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-21" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="370" y="670" as="sourcePoint" />
+            <mxPoint x="470" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="870" width="315" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aCGabC_huhg6xzf763-G-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="870" width="315" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
